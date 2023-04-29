@@ -1,0 +1,22 @@
+.title {
+    font-size: 32px;
+    line-height: 1.5;
+    font-weight: 800;
+    margin: 4px 0;
+}
+
+.buttonBack {
+    display: flex;
+    align-items: center;
+
+    color: var(--secondary-text);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.buttonBack:hover {
+    opacity: .8;
+}
